@@ -1,6 +1,6 @@
 {
 
-    "mongoURI":"mongodb://localhost/devconnector"
+    "mongoURI":"mongodb+srv://<fahad>:<ADmin123>@cluster0.kkckh.mongodb.net/devconnector?retryWrites=true&w=majority"
     ,"jwtSecret":"mySecret",
     "githubClientId":"0e4c60c737634f538489"
     ,"githubSecret":"96724e1ec84e719c759a9691d2122a497c87caad",
