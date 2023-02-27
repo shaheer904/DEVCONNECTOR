@@ -18,6 +18,7 @@ const AddExperience = ({ addExperience, history }) => {
     setFormData({ ...formData, [e.target.name]: e.target.value })
   const onSubmit = (e) => {
     e.preventDefault()
+    console.log(formData)
     addExperience(formData, history)
   }
 
