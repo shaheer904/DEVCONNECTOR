@@ -1,6 +1,9 @@
 {
   "name": "devconnector",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.17.0"
+  },
   "description": "Socail network for developers",
   "main": "server.js",
   "scripts": {
